@@ -1,5 +1,12 @@
-### Hi there 👋
-
+# Hi there 👋
+I'm Geoffrey
+## Skills
+### Programming Languages: C/C++, Java, Python
+### Tools: Git, Vim/Neovim, Linux
+## Projects
+[Meeting Scheduler](https://github.com/bloop132435/Spring2021Hackathon)<br>
+[BWSI Cybersecurity Course](https://beaverworks.ll.mit.edu/CMS/bw/BWSI-CSISIS)<br>
+[Neovim config](https://github.com/bloop132435/config/tree/main/nvim)
 <!--
 **bloop132435/bloop132435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
