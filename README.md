@@ -2,7 +2,7 @@
 I'm Geoffrey
 ## Skills
 ### Programming Languages: C/C++, Java, Python
-### Tools: Git, Vim/Neovim, Linux
+### Tools: Git, Vim/Neovim, Linux, Google Sheets/Maps/Forms API, PyTorch, GDB
 ## Projects
 [Meeting Scheduler](https://github.com/bloop132435/Spring2021Hackathon)<br>
 A program that takes in your availability for all time slots through a Google Form, then optimizes which times to schedule meetings in<br>
